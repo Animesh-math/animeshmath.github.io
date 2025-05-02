@@ -11,35 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Mathematics**, George Mason University, Fairfax, Virginia, United States  
+  * *Jan 2025 – Present*  
+  * Supervisor: [Dr. Harbir Antil](https://math.gmu.edu/~hantil/)  
+  * Research areas: Analysis of Partial Differential Equations, PDE-constrained Optimization, and Stochastic Analysis
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **M.Sc. in Mathematics**, Indian Institute of Technology Roorkee, India  
+  * *July 2022 – May 2024*  
+  * Supervisor: [Dr. Ankik Giri](https://scholar.google.com/citations?user=ZJ881u8AAAAJ&hl=en)  
+  * Focus: Functional Analysis, Stochastic PDEs
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **B.Sc. (Honours) in Physics**, University of Delhi, India  
+  * *July 2019 – May 2022*  
+  * Coursework in Classical Mechanics, Quantum Physics, and Applied Mathematics
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python  
+* C++  
+* MATLAB  
+* LaTeX – for scientific writing and documentation  
+* Git & GitHub – for version control and collaborative development
 
 Publications
 ======
@@ -53,12 +45,3 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
